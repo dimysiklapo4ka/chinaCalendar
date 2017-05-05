@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dogColor">#c44c5c</color>
+    <color name="bullColor">#ffffff</color>
+    <color name="dragonColor">#4e6c2b</color>
+    <color name="horseColor">#f9f2f1</color>
+    <color name="monkeyColor">#a41212</color>
+    <color name="rabbitColor">#3cd692</color>
+</resources>
