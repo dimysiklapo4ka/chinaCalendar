@@ -9,4 +9,6 @@
     <color name="horseColor">#f9f2f1</color>
     <color name="monkeyColor">#a41212</color>
     <color name="rabbitColor">#3cd692</color>
+    <color name="witeColor">#ffffff</color>
+    <color name="blackColor">#030303</color>
 </resources>
